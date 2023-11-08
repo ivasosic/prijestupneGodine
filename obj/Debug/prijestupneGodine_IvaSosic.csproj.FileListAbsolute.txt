@@ -1,0 +1,8 @@
+C:\Users\Ucenik\Documents\Iva\prijestupneGodine_IvaSosic\obj\Debug\prijestupneGodine_IvaSosic.csproj.AssemblyReference.cache
+C:\Users\Ucenik\Documents\Iva\prijestupneGodine_IvaSosic\obj\Debug\prijestupneGodine_IvaSosic.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ucenik\Documents\Iva\prijestupneGodine_IvaSosic\obj\Debug\prijestupneGodine_IvaSosic.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\Documents\Iva\prijestupneGodine_IvaSosic\bin\Debug\prijestupneGodine_IvaSosic.exe.config
+C:\Users\Ucenik\Documents\Iva\prijestupneGodine_IvaSosic\bin\Debug\prijestupneGodine_IvaSosic.exe
+C:\Users\Ucenik\Documents\Iva\prijestupneGodine_IvaSosic\bin\Debug\prijestupneGodine_IvaSosic.pdb
+C:\Users\Ucenik\Documents\Iva\prijestupneGodine_IvaSosic\obj\Debug\prijestupneGodine_IvaSosic.exe
+C:\Users\Ucenik\Documents\Iva\prijestupneGodine_IvaSosic\obj\Debug\prijestupneGodine_IvaSosic.pdb
